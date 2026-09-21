@@ -2,7 +2,9 @@
 
 # Exercise 1
 def count_characters(text):
-    # Write your code here
+    return len(text)
+    
+print(count_characters("Hello"))
     pass
 
 # Exercise 2
